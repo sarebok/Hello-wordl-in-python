@@ -14,3 +14,4 @@ print("""Imagino que puedo crear un repo "Ejercicios", donde guarde todos los ej
 print("También podría empezar a trabajar con un editor de texto más entretenido, porque el que viene con python es horrible")
 print("De hecho, como no se ocuparlo, ni siquiera puedo ver la descripción correcta de los errores (con detalle)")
 print("probando cuando aparecen los cambios en git")
+print("algo hice mal xD")
