@@ -16,3 +16,4 @@ print("De hecho, como no se ocuparlo, ni siquiera puedo ver la descripción corr
 print("probando cuando aparecen los cambios en git")
 print("algo hice mal xD")
 print("""Al parecer, para subir el codigo a github, hay que darle a "commit to master", y ahi se sube""")
+print("""Claro, primero hay que darle a "Commit to master", y luego a "Fetch origin" para que el codigo se guarde en github""")
