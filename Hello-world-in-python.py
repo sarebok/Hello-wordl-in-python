@@ -15,3 +15,4 @@ print("También podría empezar a trabajar con un editor de texto más entreteni
 print("De hecho, como no se ocuparlo, ni siquiera puedo ver la descripción correcta de los errores (con detalle)")
 print("probando cuando aparecen los cambios en git")
 print("algo hice mal xD")
+print("""Al parecer, para subir el codigo a github, hay que darle a "commit to master", y ahi se sube""")
